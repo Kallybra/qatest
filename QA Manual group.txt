@@ -1,2 +1,0 @@
-This would be the first commit
-This would be the second commit!
